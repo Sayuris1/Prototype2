@@ -4,7 +4,7 @@
 
 ### Plan:
 
-* Design every part before starting (Even though it's going to change.). **Check design folder.**
+* Design every part before starting (Even though it's going to change.).
 * Add those parts deadlines. Make those deadlines x2 longer. Why? Because gamedev works like that.
 * Document everything.
 * Make the design ***very very very small***.
